@@ -1,0 +1,6 @@
+db.sqlite3
+uploads/
+staticfiles/
+.env
+__pycache__/
+*.pyc
